@@ -1,0 +1,7 @@
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\bin\Debug\Notas N promedio.exe.config
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\bin\Debug\Notas N promedio.exe
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\bin\Debug\Notas N promedio.pdb
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\obj\Debug\Notas N promedio.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\obj\Debug\Notas N promedio.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\obj\Debug\Notas N promedio.exe
+C:\Users\wilbe\source\repos\Notas N promedio\Notas N promedio\obj\Debug\Notas N promedio.pdb

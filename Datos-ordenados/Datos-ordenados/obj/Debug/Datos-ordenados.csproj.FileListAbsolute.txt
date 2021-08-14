@@ -1,0 +1,7 @@
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\bin\Debug\Datos-ordenados.exe.config
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\bin\Debug\Datos-ordenados.exe
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\bin\Debug\Datos-ordenados.pdb
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\obj\Debug\Datos-ordenados.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\obj\Debug\Datos-ordenados.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\obj\Debug\Datos-ordenados.exe
+C:\Users\wilbe\source\repos\Datos-ordenados\Datos-ordenados\obj\Debug\Datos-ordenados.pdb

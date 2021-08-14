@@ -1,0 +1,7 @@
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\bin\Debug\Metodo sort.exe.config
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\bin\Debug\Metodo sort.exe
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\bin\Debug\Metodo sort.pdb
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\obj\Debug\Metodo sort.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\obj\Debug\Metodo sort.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\obj\Debug\Metodo sort.exe
+C:\Users\wilbe\source\repos\Metodo sort\Metodo sort\obj\Debug\Metodo sort.pdb
